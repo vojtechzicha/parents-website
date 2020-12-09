@@ -23,7 +23,7 @@
     "extends": "react-app"
   },
   "engines": {
-    "node": "^14.7",
+    "node": "^15.3",
     "yarn": "^1.22"
   },
   "browserslist": {
